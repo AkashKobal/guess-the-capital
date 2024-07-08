@@ -37,9 +37,44 @@ This web application allows users to guess the capital cities of various countri
 
 3. **Configure Database**:
 
-Download CSV file
-Set up your PostgreSQL database and update the connection settings in the .env file.
+   [Download CSV file](https://github.com/AkashKobal/guess-the-capital/blob/main/capitals.csv) <br>
+   Set up your PostgreSQL database and update the connection settings in the .env file.
 
 5. **Run the Application**:
    ```sh
    node index.js
+
+## Usage
++ Development:
+  ```sh
+  npm run dev
+
++ Production:
+  ```sh
+  npm start
+
+## Testing
++ To run tests:
+  ```sh
+  npm test
+
+## Contributions
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+This project is licensed under the [MIT License](https://github.com/AkashKobal/guess-the-capital/blob/main/LICENSE).
+
+Contact Information
+For further questions or support, please contact [akashkobal02@gmail.com] or open an issue on this repository.
+
+
+## 🌐 Sources
+1. [github.com - postgresql-database](https://github.com/topics/postgresql-database?l=javascript)
+2. [github.com - ejs-express](https://github.com/topics/ejs-express?l=html)
+3. [github.com - ejs-templates](https://github.com/topics/ejs-templates?l=javascript&o=desc&s=updated)
+4. [github.com - express-postgresql](https://github.com/Rob-Rychs/express-postgresql)
+5. [github.com - blog-website](https://github.com/topics/blog-website?l=ejs)
+6. [github.com - CRUD-PostgreSQL-Blog](https://github.com/shanibider/CRUD-PostgreSQL-Blog)
+</response>
+
