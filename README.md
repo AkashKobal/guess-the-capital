@@ -29,17 +29,17 @@ This web application allows users to guess the capital cities of various countri
 ## Setup Instructions
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/AkashKobal/guess-the-capital```
+   git clone https://github.com/AkashKobal/guess-the-capital 
 
 2. **Install Dependencies**:
-```sh
-npm install express body-parser pg```
+   ```sh
+   npm install express body-parser pg
 
 3. **Configure Database**:
-```
+
 Download CSV file
 Set up your PostgreSQL database and update the connection settings in the .env file.
-```
-4. **Run the Application**:
-```sh
-node index.js```
+
+5. **Run the Application**:
+   ```sh
+   node index.js
