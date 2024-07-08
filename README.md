@@ -22,8 +22,8 @@ This repository contains a web application built using the following technologie
 + Install Dependencies: Run ` npm install express`
   `npm install body-parser`
   `npm install pg` to install the required packages.
-+ Configure Database: Set up your PostgreSQL database and update the connection settings in the .env file.
-+ Run the Application: Start the server using npm start.
++ Configure Database: [Download CSV file](https://github.com/AkashKobal/guess-the-capital/blob/main/capitals.csv), Set up your PostgreSQL database and update the connection settings in the .env file.
++ Run the Application: Start the server using `node index.js`
 
 ## Usage
 + Development: npm run dev to start the development server with live reload.
