@@ -34,4 +34,4 @@ This repository contains a web application built using the following technologie
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/AkashKobal/guess-the-capital/blob/main/LICENSE).
